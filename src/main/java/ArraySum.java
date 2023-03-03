@@ -10,7 +10,7 @@ public class ArraySum {
         int returnVal = 0;
 
         for(int element : arr){
-            returnVal = returnVal + element;
+            returnVal = returnVal + element; //comment to commit
         }
 
         return returnVal;
